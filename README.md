@@ -15,7 +15,7 @@ Firmware for the Raspberry Pi Pico acting as the PWM controller between the OBC 
    - `HIGH` 1ms
    - `LOW` 2000ms
 3. Toggle USB
-   - `HIGH` 1.5ms
+   - **`HIGH` 1.5ms**
    - `LOW` 100ms
    - `HIGH` 1ms
    - `LOW` 2000ms
